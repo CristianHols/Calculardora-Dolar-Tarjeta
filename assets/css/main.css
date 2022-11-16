@@ -26,7 +26,7 @@ main {
 #contenedor-calculadora  {
     width: 360px;
     margin: 0 auto;
-    background-color: #350505;
+    background-color: #3533aa;
     border-radius: 20px;
     padding: 1rem;
 }
@@ -45,7 +45,9 @@ main {
 }
 .calculadora button {
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(7, 221, 0);
+    font-weight: bold;
+    font-size: large;
+    background-color: rgb(18, 1, 92);
     color: #EEE;   
     padding: .6rem;
     border-radius: 12px;
